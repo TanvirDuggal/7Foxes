@@ -1,6 +1,6 @@
-# Seven Foxes
+# 7evenfoxes
 
-Seven Foxes is a technology consulting team helping businesses operate more reliably, automate repetitive work, improve software quality, and deliver products with greater confidence.
+7evenfoxes is a technology consulting team helping businesses operate more reliably, automate repetitive work, improve software quality, and deliver products with greater confidence.
 
 The team combines experience across IT support, remote monitoring and management, DevOps, infrastructure, scripting, QA, product management, and project delivery.
 
@@ -8,7 +8,7 @@ The team combines experience across IT support, remote monitoring and management
 
 ### Vision
 
-Technology should make a business simpler, more efficient, and more dependable. Seven Foxes works as an extension of a client’s team to reduce operational overhead, improve system reliability, and support better product outcomes.
+Technology should make a business simpler, more efficient, and more dependable. 7evenfoxes works as an extension of a client’s team to reduce operational overhead, improve system reliability, and support better product outcomes.
 
 ### Core services
 
@@ -29,7 +29,7 @@ The wider team includes seven experienced technology professionals with approxim
 
 ## Website
 
-This repository contains the current static marketing website for Seven Foxes. The site presents the company vision, service capabilities, team experience, partner network placeholder, and contact call-to-action.
+This repository contains the current static marketing website for 7evenfoxes. The site presents the company vision, service capabilities, team experience, partner network placeholder, and contact call-to-action.
 
 The site is intentionally static for now. There is no backend, database, authentication, CMS, contact form processing, or external API integration.
 
@@ -38,7 +38,7 @@ The site is intentionally static for now. There is no backend, database, authent
 - **HTML5** for semantic page structure and accessible content.
 - **CSS3** for layout, responsive behavior, gradients, animations, cards, and theme styling.
 - **Vanilla JavaScript** — currently no JavaScript runtime is required; the page is implemented without a frontend framework.
-- **Local image asset** — the Seven Foxes logo is stored in `dist/assets/seven-foxes-logo.png`.
+- **Local image asset** — the 7evenfoxes logo is stored in `dist/assets/7evenfoxes-logo.png`.
 - **Google Fonts** — DM Sans and Space Grotesk are loaded from Google Fonts for the current visual system.
 - **Static hosting compatible** — the output can be hosted on GitHub Pages, Cloudflare Pages, Netlify, Vercel static hosting, S3, or a standard web server.
 
@@ -49,7 +49,7 @@ The site is intentionally static for now. There is no backend, database, authent
 ├── dist/
 │   ├── index.html
 │   └── assets/
-│       └── seven-foxes-logo.png
+│       └── 7evenfoxes-logo.png
 └── README.md
 ```
 
@@ -80,7 +80,7 @@ Open `http://127.0.0.1:4173/` in a browser.
 ## Updating the website
 
 1. Edit the content and styles in `dist/index.html`.
-2. Replace the logo at `dist/assets/seven-foxes-logo.png` if a new brand asset is provided.
+2. Replace the logo at `dist/assets/7evenfoxes-logo.png` if a new brand asset is provided.
 3. Keep public-facing content free of credentials, admin account details, private infrastructure information, and internal operational notes.
 4. Test both desktop and mobile layouts before deployment.
 5. Verify that all contact details and pricing are current before publishing.
@@ -88,7 +88,7 @@ Open `http://127.0.0.1:4173/` in a browser.
 ## Content notes
 
 - The `$10.20/hr` rate is presented as supplied and should be confirmed before publication.
-- The `hello@sevenfoxes.com` email in the page is a placeholder until the company’s preferred public inbox is confirmed.
+- The `hello@7evenfoxes.com` email in the page is a placeholder until the company’s preferred public inbox is confirmed.
 - The partner section is intentionally reserved for future partner details.
 - Microsoft 365 administration details are intentionally excluded from the public site and this README.
 
